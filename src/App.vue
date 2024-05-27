@@ -4,12 +4,6 @@
   </div>
 </template>
 
-<script>
+<script setup>
 import TodoApp from './components/TodoApp.vue'
-
-export default {
-  components: {
-    TodoApp
-  }
-}
 </script>
